@@ -1,0 +1,19 @@
+{
+  "name": "af-lab04",
+  "version": "1.0.0",
+  "description": "Lab work of AF",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nethmal18/AF-Lab04.git"
+  },
+  "author": "nethmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nethmal18/AF-Lab04/issues"
+  },
+  "homepage": "https://github.com/Nethmal18/AF-Lab04#readme"
+}
